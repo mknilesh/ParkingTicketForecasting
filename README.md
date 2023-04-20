@@ -1,6 +1,6 @@
 # ParkingTicketForecasting
 ## Description:
-This project contains one main python application, app.py, that runs a dash server to generate our web application. The json files included are different formatted versions of our final dataset (one for each model we use) that makes it much easier and quicker to load the UI. The 3 csv files, "arima.csv", "gradient.csv", and "VAR.csv" are the files containing the forcasted predictions for each of the respective models. These are also pregenrated to save time and load the data vizualization faster.
+This project contains one main python application, app.py, that runs a dash server to generate our web application. The json files included are different formatted versions of our final dataset (one for each model we use) that makes it much easier and quicker to load the UI. The 3 csv files, "arima.csv", "gradient.csv", and "VAR.csv" are the files containing the forcasted predictions for each of the respective models. These are also pre-generated to save time and load the data vizualization faster.
 
 The actual dataset for our project is too large to include so we are sharing the link below. However, this dataset is not needed to run our application.
 
