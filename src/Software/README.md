@@ -12,11 +12,11 @@ https://www.kaggle.com/code/mfaisalqureshi/us-parking-data-analysis/data
 ```
 cd src
 ```
-2. Activate virtual environment via the command
+2. Create a virtual environment via the command
 ```
 virtualenv env
 ```
-3. Enter the Virtual environment via the first command for Linux/Mac or the second command for Windows
+3. Activate the environment via the first command for Linux/Mac or the second command for Windows
 ```
 source env/bin/activate
 .\env\Scripts\activate
