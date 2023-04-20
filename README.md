@@ -12,24 +12,20 @@ https://www.kaggle.com/code/mfaisalqureshi/us-parking-data-analysis/data
 ```
 cd src
 ```
-2. Activate virtual environment via the command
-```
-virtualenv env
-```
-3. Enter the Virtual environment via the first command for Linux/Mac or the second command for Windows
+2. Activate virtual environment via the first command for Linux/Mac or the second command for Windows
 ```
 source env/bin/activate
 .\env\Scripts\activate
 ```
-4. Install all the required modules via one of the following commands
+3. Install all the required modules via one of the following commands
 ```
 pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
-5. Start the application via the command
+4. Start the application via the command
 ```
 python app.py
 ```
-6. Open the web application on your browser at the following link:
+5. Open the web application on your browser at the following link:
 
 http://127.0.0.1:8050/
