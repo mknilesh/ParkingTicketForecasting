@@ -1,6 +1,6 @@
 # ParkingTicketForecasting
 ## Description:
-This source contains all the code we wrote for this project. "ARIMA + RMSE.ipynb", "GradiengBoosting.ipynb", and "VAR.ipynb" are the jupyter notebooks where we trained the Arima, GBDT, and VAR models respectively, generated predictions and RMSE values and saved the predictions in the respective .csv files. The Data Analysis, preprocess, and data_edit juypter notebooks were used for initially analyzing, cleaning, and restructuring the data.
+This source contains all the code we wrote for this project. "ARIMA + RMSE.ipynb", "GradientBoosting.ipynb", and "VAR.ipynb" are the jupyter notebooks where we trained the Arima, GBDT, and VAR models respectively, generated predictions and RMSE values and saved the predictions in the respective .csv files. The Data Analysis, preprocess, and data_edit juypter notebooks were used for initially analyzing, cleaning, and restructuring the data.
 
 This project contains one main python application, app.py, that runs a dash server to generate our web application. The json files included are different formatted versions of our final dataset (one for each model we use) that makes it much easier and quicker to load the UI. The 3 csv files, "arima.csv", "gradient.csv", and "VAR.csv" are the files containing the forcasted predictions for each of the respective models. These are also pre-generated to save time and load the data vizualization faster.
 
